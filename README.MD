@@ -26,3 +26,6 @@ install [Git](https://git-scm.com/downloads) in ssh shell type following command
 git colne "https://github.com/DudkinON/pyton_web/"
 ```
 
+## License
+
+[MIT](LICENSE)
