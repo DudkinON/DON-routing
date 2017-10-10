@@ -4,7 +4,7 @@ The simple routing on python 3
 
 ## Usage
 
-This api can provide a basis for creating a new application.
+This api provides a basis for creating new applications.
 
 ## Installation
 
